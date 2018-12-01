@@ -11,3 +11,8 @@ The file is combination of letters (genome sequence) 'a' 'c' 'g' and 't' repeate
 
 Course link:
 https://mitxpro.mit.edu/courses/course-v1:MITxPRO+DSx+1T2019/about
+
+# Overfitting when n = p; 
+i.e. we have as many variables as rows our regression r2 will always be 1. To convince ourselves of this theory  you can run the reproducible code https://github.com/akshaykadidal/MIT_DS/blob/master/overfit.r
+
+
