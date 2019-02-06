@@ -16,3 +16,7 @@ https://mitxpro.mit.edu/courses/course-v1:MITxPRO+DSx+1T2019/about
 i.e. we have as many variables as rows our regression r2 will always be 1. To convince ourselves of this theory  you can run the reproducible code https://github.com/akshaykadidal/MIT_DS/blob/master/overfit.r
 
 
+# Understanding Neural networks using excel
+a basic two node neural networks trying to emulate a not function in excel. this excel sheet demonstrates how you can go through the neural network calculations by hand. https://github.com/akshaykadidal/MIT_DS/blob/master/Neural%20Networks.xlsx
+ofcourse it was never meant to be done by hand so here is the associated python code using numpy library.
+https://github.com/akshaykadidal/MIT_DS/blob/master/Gradient%20Decent%20one%20node%20NN.ipynb
